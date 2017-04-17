@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\HarshVardhan\AndroidStudioProjects\marvel-explorer\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\HarshVardhan\AndroidStudioProjects\marvel-explorer\app\build\intermediates\pre-dexed\debug\classes-4b92451cb8136079dbb58d9a30dfeac0875e45e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\HarshVardhan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\HarshVardhan\AndroidStudioProjects\marvel-explorer\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-efc31dbdee2c2f231946a84347d1d49a9b5877ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\HarshVardhan\AndroidStudioProjects\marvel-explorer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\HarshVardhan\AndroidStudioProjects\marvel-explorer\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-b6205b047a598c698547d3b2f83e448b442e9cf4.jar" />
+    </item>
+    <item
+        jar="C:\Users\HarshVardhan\AndroidStudioProjects\marvel-explorer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\HarshVardhan\AndroidStudioProjects\marvel-explorer\app\build\intermediates\pre-dexed\debug\classes-661e3ef489914139410dbfcdc0a39c46265282f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\HarshVardhan\AndroidStudioProjects\marvel-explorer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\HarshVardhan\AndroidStudioProjects\marvel-explorer\app\build\intermediates\pre-dexed\debug\classes-c0ccf5c843a7597959b6f8dd1484f3b956ef9262.jar" />
+    </item>
+
+</items>

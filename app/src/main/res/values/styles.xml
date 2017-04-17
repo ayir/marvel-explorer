@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/actionbar</item>
+        <item name="colorPrimaryDark">@color/actionbar</item>
+        <item name="colorAccent">@color/color_link</item>
+    <!--//    <item name="actionBarStyle">@style/ActionBar.Solid.YourHeroes</item>-->
+    </style>
+
+    <style name="YourHeroesTheme" parent="AppTheme">
+    </style>
+
+
+
+    <style name="DialogSpinner" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent_white</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="PersonListStyle">
+    </style>
+
+</resources>

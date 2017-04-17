@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Marvel Comic Explorer</string>
+
+    <string name="action_refresh" translatable="false">Refresh</string>
+
+    <string name="title_activity_detail_person">Details</string>
+
+    <string name="searching">Loading&#8230;</string>
+    <string name="erro_searching_person">Error on searching of data. Try again.</string>
+
+    <string name="seedetails">Click here to see More Details</string>
+
+</resources>
